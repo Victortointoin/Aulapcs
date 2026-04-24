@@ -1,1 +1,1 @@
-Turn an LED on and off. The LED is connected to Arduino pin 13 through a 220Ω resistor.
+Ligar e dsligar LED ligado ao LED_BUILTIN com resistor de 220 ohms.
