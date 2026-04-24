@@ -1,1 +1,1 @@
-Ligar e dsligar LED ligado ao LED_BUILTIN com resistor de 220 ohms.
+Ligar e desligar 2 LEDs, um ligado ao LED_BUILTIN, e outro ligado ao 8, ambos com resistores de 220 ohms.
